@@ -69,11 +69,11 @@ CONTAINER ID        IMAGE                            COMMAND                  CR
 
 
 
-                                                                                                                                          peaceful_mcleanCopy
+
 7) exec
 I am accessing the apache server container in this example.
 
-hellodev$ docker exec -it 09ca6mar6efc bash
+``hellodev$ docker exec -it 09ca6mar6efc bash```
 
 root@09ca6feb6efc:/usr/local/apache2# ls
 
